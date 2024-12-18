@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an error where the development server wouldn't start, showing a cryptic message about a port conflict.  I had checked for other processes using the port, and none were found.  The error message wasn't specific enough to debug.
